@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Péter Magyar
-- 👀 I’m interested in Software Architecture and Mountainbiking
-- 🌱 I’m currently honing my typescript, c#, javascript skills. And learning rust.
+- Engineering Manager / Software Engineer
+- 👀 I’m interested in Software Architecture, Technology, Mountainbiking
+- 🌱 I’m currently trying to figure out how to implement AI related solutions to generate real businsess value. Other than that, leading a cross functional engineering team focuing on full stack development.
 - 📫 You can reach me via email @ magyar.peter1@gmail.com
 
 <!---
